@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Bonfire",
+      "request": "launch",
+      "mainClass": "Bonfire",
+      "projectName": "Bonfire_6c8d8d0f"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/sunidhimistry/Desktop/Code/UCF/COP 3330 (OOP)/Bonfire",
+      "program": "/Users/sunidhimistry/Desktop/Code/UCF/COP 3330 (OOP)/Bonfire/build/Debug/outDebug"
+    }
+  ]
+}
